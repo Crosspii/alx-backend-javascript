@@ -115,5 +115,3 @@ app.listen(PORT, HOST, () => {
 });
 
 module.exports = app;
-// The server listens on PORT 1245 and responds with "Hello Holberton School!" to the root route.
-// It also responds to the "/students" route with a list of students from a CSV file, if provided as a command line argument.
